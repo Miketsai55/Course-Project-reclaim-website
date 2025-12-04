@@ -68,7 +68,7 @@ The website uses simple colors and clear layout:
 - Dark text for strong contrast and easy reading.  
 - Large headings and clear buttons to help users focus on key actions like **“Upload an Item”** and **“Mark Cleaned.”**  
 
-### Call-to-Action Statement (Optional)  
+### Call-to-Action Statement 
 
 Residents should take photos and share their unwanted items on ReClaim because this helps reduce waste, supports neighbors who need items, and keeps the streets clean and safe.  
 
@@ -88,11 +88,9 @@ https://www.figma.com/design/fbQOpumfSygqpiHe6PyCOT/ReClaim?node-id=78-266&t=BbD
 This repository includes:
 
 - `README.md` – Site narrative and project description (this file).  
-- (Optional) Any extra files or exports if needed by the course.
+- site narrative ReClaim 
 
-For **Option 1 (Design-Focused)**, the main deliverables are:
-
-- This narrative in `README.md`.  
+ 
 - Figma wireframe and mockup links with public access.
 
 ---
